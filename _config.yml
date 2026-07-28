@@ -13,7 +13,7 @@ site_theme: "default"
 title: "Mingze Zhang | Academic Profile"
 title_separator: "-"
 name: &name "Mingze Zhang"
-description: &description "Academic portfolio of Mingze Zhang focusing on LLMs and Research."
+description: &description "Academic portfolio of Mingze Zhang focusing on Science of Science."
 url: "https://zhangmingze-ss.github.io"
 baseurl: ""
 repository: "zhangmingze-ss/zhangmingze-ss.github.io"
@@ -24,24 +24,24 @@ repository: "zhangmingze-ss/zhangmingze-ss.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Mingze"
+  pronouns         : "he/his"  
+  bio              : "A Phd. student in CityUHK"
+  location         : "Hong Kong, SAR, China"
+  employer         : "City University of Hong Kong"
+  # uri              : # URL
+  email            : "mingzezhang0705@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/a/zhang_m_9.html"
+  googlescholar    : "https://scholar.google.com/citations?user=L69ZLGgAAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5142-6074"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/zhangmingze-ss"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/mingze-zhang-7741b3113/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : @zhangmingze_CAS
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
