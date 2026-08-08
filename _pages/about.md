@@ -13,6 +13,6 @@ I am Mingze ZHANG, an incoming Ph.D. student in the Department of Data Science a
 
 My research primarily focuses on the **Science of Science** and **Computational Social Science**. I am particularly interested in exploring the dynamics of knowledge production, team collaboration, the impact of large-scale scientific infrastructure (Big Science Facilities) on scientific innovation, and dissemination of global scientific ideas. By leveraging data science and econometric methods, I aim to better understand the mechanisms that drive scientific advancement. Furthermore, our ongoing projects aim to address disparities within the existing scientific system and contribute to Sustainable Development Goals (SDGs).
 
-Prior to my doctoral studies, I received my Master's degree in Information Science from the National Science Library, Chinese Academy of Sciences (University of Chinese Academy of Sciences), and my Bachelor's degree from the School of Public Administration at Sichuan University.
+Prior to my doctoral studies, I received my Master's degree in Information Science from the National Science Library, Chinese Academy of Sciences (University of Chinese Academy of Sciences), advised by Prof. Zexia LI. I received my Bachelor's degree from the School of Public Administration at Sichuan University, advised by Prof. Penghui LYU.
 
 Please feel free to contact me via email for research discussions or potential collaborations!
