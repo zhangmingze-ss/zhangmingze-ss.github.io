@@ -32,8 +32,8 @@ author_profile: true
 ## Conference Articles
 
 
-* **Zhang, M.**, Lyu, P., Li, Y., & Li, Z.<sup>*</sup> (2025). Scientific travelers associated with less disruption but better scientific novelty. In 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia. https://doi. org/10.51408/issi2025_085.
-* Li, Z., **Zhang, M. Z.<sup>*</sup>**, Wang, L., & Li, Y. (2025). A novel type collaboration: global big science facilities co-utilization. In 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia. https://doi. org/10.51408/issi2025_121.
+* **Zhang, M.**, Lyu, P., Li, Y., & Li, Z.<sup>*</sup> (2025). Scientific travelers associated with less disruption but better scientific novelty. In 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia. https://doi.org/10.51408/issi2025_085.
+* Li, Z., **Zhang, M. Z.<sup>*</sup>**, Wang, L., & Li, Y. (2025). A novel type collaboration: global big science facilities co-utilization. In 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia. https://doi.org/10.51408/issi2025_121.
 * LI, Y., **ZHANG, M.**, DONG, L., & LI, Z.<sup>*</sup> (2025). Mapping and Quantifying the Boundaries in Research Data Sharing based on Data Policy. In 20th International Conference on Scientometrics and Informetrics (ISSI 2025), Yerevan, Armenia. https://doi.org/10.51408/issi2025_124.
 * Li Z., **Zhang, M. Z.<sup>*</sup>**, & Wang, L., (2024). Impact of Inter-Community Collaboration in Large-scale Research Infrastructures on Scientific Performance. In 28th International Conference on Science, Technology and Innovation Indicators (STI2024), Berlin, Germany. https://zenodo.org/records/14028147.
 * Wang, T., **Zhang, M.**, & Xiong, T.<sup>*</sup> (2022, March). A bibliometric analysis of the digital divide among the elderly. In 2022 8th International Conference on Information Management (ICIM) (pp. 1-5). IEEE.
