@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingze ZHANG, Science of Science"
+title: "Mingze ZHANG"
 author_profile: true
 redirect_from: 
   - /about/
