@@ -44,6 +44,7 @@ author_profile: true
 
 * Wang, H.<sup>†</sup>, **Zhang, M.<sup>†</sup>**, Bu, Y., Zhao, S. X., & Liu, M.<sup>*</sup> (2026). Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams. arXiv preprint arXiv:2605.27404.
 * **Zhang, M.**, Li, Y., Li, Y., & Li, Z.<sup>*</sup> (2026). Scientific tools and Innovation: Big Science Facilities Yield More Novel and Interdisciplinary Knowledge. arXiv preprint arXiv:2604.19396.
+* * **Zhang, M.**, Li, Y., Peng, H.<sup>*</sup>, & Li, Z.<sup>*</sup> (2026). Co-leading Teams Drive Scientific Novelty in Large-scale Research Infrastructures. arXiv preprint arXiv:2608.13195.
 
 <!-- {% include base_path %}
 
